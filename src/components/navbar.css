@@ -1,0 +1,18 @@
+
+
+.nav{
+  background-color: cyan;
+  
+}
+
+
+li.nav-item a{
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+li.nav-item a:hover{
+  background: white;
+  color:red;
+}
