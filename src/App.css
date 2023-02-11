@@ -1,3 +1,25 @@
 .App {
   text-align: center;
 }
+
+
+.message{
+  margin-top: 100px;
+  color: red;
+  font-size: 50px;
+  font-weight:0;
+}
+
+.power{
+  margin-top: 20px;
+  color: rgb(45, 174, 255);
+  font-size: 50px;
+  font-weight:0;
+}
+
+.made{
+  margin-top: 20px;
+  color: rgb(69, 211, 26);
+  font-size: 50px;
+  font-weight:0;
+}
